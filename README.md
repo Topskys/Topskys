@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Topskys
+- 👋 Hi, I’m @Lok
 - 👀 I’m interested in web front-end.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on web front-end.
