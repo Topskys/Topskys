@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lok
 - 👀 I’m interested in web front-end.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Nextjs.
 - 💞️ I’m looking to collaborate on web front-end.
-- 📫 How to reach me ... mr.llb@proton.me
+- 📫 How to reach me ... loranbo@163.com
 
 <!---
 Topskys/Topskys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
