@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lok
-- 👀 I’m interested in web front-end.
+- 👀 I’m interested in web full-stack.
 - 🌱 I’m currently learning Nextjs.
-- 💞️ I’m looking to collaborate on web front-end.
+- 💞️ I’m looking to collaborate on web full-stack.
 - 📫 How to reach me ... loranbo@163.com
 
 <!---
