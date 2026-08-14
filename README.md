@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=console.log(%22Hello%2C%20World%22);Hi%2C%20I%27m%20Lok%20%F0%9F%91%8B;AI%20Agent%20%26%20Web%20full%20stack%20developer;Learning%20Agent%20Development&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=console.log(%22Hello%2C%20World%22);Hi%2C%20I%27m%20Lok%20%F0%9F%91%8B;AI%20Agent%20%26%20Web%20full%20stack%20developer;Learning%20Agent%20Development&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/coding.gif" />
@@ -11,7 +11,7 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="mailto:loranbo@163.com"><img src="https://img.shields.io/badge/Email-loranbo%40163.com-D14836?style=flat&logo=gmail&logoColor=fff" /></a>&emsp;
+  <a href="mailto:loranbo@163.com"><img src="https://img.shields.io/badge/Email-lok%40163.com-D14836?style=flat&logo=gmail&logoColor=fff" /></a>&emsp;
   <a href="https://github.com/Topskys"><img src="https://img.shields.io/badge/GitHub-Topskys-181717?style=flat&logo=github&logoColor=fff" /></a>&emsp;
   <a href="https://blog.csdn.net/qq_58062502"><img src="https://img.shields.io/badge/Blog-CSDN-red?style=flat&logo=csdn" /></a>&emsp;
   <!-- visitor -->
