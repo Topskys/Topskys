@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 03 - [大模型原理之 MoE 混合专家模型](https://blog.csdn.net/qq_58062502/article/details/167039949)
 - Oct 02 - [大模型原理之 KV Cache](https://blog.csdn.net/qq_58062502/article/details/166995251)
 - Oct 01 - [大模型原理之 KV Cache 分级存储](https://blog.csdn.net/qq_58062502/article/details/166948889)
 - Sep 30 - [大模型原理之反向传播与梯度下降](https://blog.csdn.net/qq_58062502/article/details/166904602)
 - Sep 29 - [工业级Agent意图识别分层漏斗](https://blog.csdn.net/qq_58062502/article/details/166850415)
-- Sep 28 - [RAG 知识库权限隔离全链路设计](https://blog.csdn.net/qq_58062502/article/details/166796197)
 <!-- feed end -->
 
 </td></tr>
