@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 08 - [大模型推理全链路](https://blog.csdn.net/qq_58062502/article/details/167283894)
 - Oct 07 - [20261007](https://blog.csdn.net/qq_58062502/article/details/167040361)
 - Oct 06 - [20261006](https://blog.csdn.net/qq_58062502/article/details/167040357)
 - Oct 05 - [20261005](https://blog.csdn.net/qq_58062502/article/details/167040347)
 - Oct 04 - [大模型原理之 Softmax](https://blog.csdn.net/qq_58062502/article/details/167040292)
-- Oct 03 - [大模型原理之 MoE 混合专家模型](https://blog.csdn.net/qq_58062502/article/details/167039949)
 <!-- feed end -->
 
 </td></tr>
