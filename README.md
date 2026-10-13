@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 12 - [LoRA微调技术深度解析](https://blog.csdn.net/qq_58062502/article/details/167704282)
 - Oct 11 - [大模型幻觉成因与分层治理](https://blog.csdn.net/qq_58062502/article/details/167589231)
 - Oct 10 - [模型上下文协议（MCP）](https://blog.csdn.net/qq_58062502/article/details/167498062)
 - Oct 09 - [AI Agent 沙箱](https://blog.csdn.net/qq_58062502/article/details/167399278)
 - Oct 08 - [大模型推理全链路](https://blog.csdn.net/qq_58062502/article/details/167283894)
-- Oct 07 - [20261007](https://blog.csdn.net/qq_58062502/article/details/167040361)
 <!-- feed end -->
 
 </td></tr>
