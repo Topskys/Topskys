@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 16 - [Agent 轨迹评估和结果评估](https://blog.csdn.net/qq_58062502/article/details/168145913)
 - Oct 15 - [RAG 准确率提升体系化方案](https://blog.csdn.net/qq_58062502/article/details/168030938)
 - Oct 14 - [RAG 准确率保障的体系化方案](https://blog.csdn.net/qq_58062502/article/details/167922268)
 - Oct 13 - [大模型 Prompt 注入与防范](https://blog.csdn.net/qq_58062502/article/details/167814351)
 - Oct 12 - [LoRA微调技术深度解析](https://blog.csdn.net/qq_58062502/article/details/167704282)
-- Oct 11 - [大模型幻觉成因与分层治理](https://blog.csdn.net/qq_58062502/article/details/167589231)
 <!-- feed end -->
 
 </td></tr>
