@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 19 - [文档智能与实践](https://blog.csdn.net/qq_58062502/article/details/168454777)
 - Oct 18 - [AI安全与红队测试](https://blog.csdn.net/qq_58062502/article/details/168245859)
 - Oct 17 - [大模型评测可信](https://blog.csdn.net/qq_58062502/article/details/168241563)
 - Oct 16 - [Agent 轨迹评估和结果评估](https://blog.csdn.net/qq_58062502/article/details/168145913)
 - Oct 15 - [RAG 准确率提升体系化方案](https://blog.csdn.net/qq_58062502/article/details/168030938)
-- Oct 14 - [RAG 准确率保障的体系化方案](https://blog.csdn.net/qq_58062502/article/details/167922268)
 <!-- feed end -->
 
 </td></tr>
