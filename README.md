@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 22 - [Agent工程化三层架构](https://blog.csdn.net/qq_58062502/article/details/168774756)
 - Oct 21 - [什么是正则化？](https://blog.csdn.net/qq_58062502/article/details/168663559)
 - Oct 20 - [大模型原理之投机解码](https://blog.csdn.net/qq_58062502/article/details/168455087)
 - Oct 19 - [文档智能与实践](https://blog.csdn.net/qq_58062502/article/details/168454777)
 - Oct 18 - [AI安全与红队测试](https://blog.csdn.net/qq_58062502/article/details/168245859)
-- Oct 17 - [大模型评测可信](https://blog.csdn.net/qq_58062502/article/details/168241563)
 <!-- feed end -->
 
 </td></tr>
