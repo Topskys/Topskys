@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 25 - [什么是联邦学习？](https://blog.csdn.net/qq_58062502/article/details/169062879)
 - Oct 24 - [Jev 决策模型](https://blog.csdn.net/qq_58062502/article/details/168955810)
 - Oct 23 - [RSI递归自我改进](https://blog.csdn.net/qq_58062502/article/details/168884710)
 - Oct 22 - [Agent工程化三层架构](https://blog.csdn.net/qq_58062502/article/details/168774756)
 - Oct 21 - [什么是正则化？](https://blog.csdn.net/qq_58062502/article/details/168663559)
-- Oct 20 - [大模型原理之投机解码](https://blog.csdn.net/qq_58062502/article/details/168455087)
 <!-- feed end -->
 
 </td></tr>
