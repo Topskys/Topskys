@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 27 - [DeepSeek 稀疏注意力](https://blog.csdn.net/qq_58062502/article/details/169268491)
 - Oct 26 - [Deep Research 深度研究模型](https://blog.csdn.net/qq_58062502/article/details/169170289)
 - Oct 25 - [什么是联邦学习？](https://blog.csdn.net/qq_58062502/article/details/169062879)
 - Oct 24 - [Jev 决策模型](https://blog.csdn.net/qq_58062502/article/details/168955810)
 - Oct 23 - [RSI递归自我改进](https://blog.csdn.net/qq_58062502/article/details/168884710)
-- Oct 22 - [Agent工程化三层架构](https://blog.csdn.net/qq_58062502/article/details/168774756)
 <!-- feed end -->
 
 </td></tr>
