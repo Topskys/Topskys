@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 30 - [大模型原理之权重量化](https://blog.csdn.net/qq_58062502/article/details/169564950)
 - Oct 29 - [大模型可解释性](https://blog.csdn.net/qq_58062502/article/details/169367505)
 - Oct 28 - [大模型推理时扩展](https://blog.csdn.net/qq_58062502/article/details/169365598)
 - Oct 27 - [DeepSeek 稀疏注意力](https://blog.csdn.net/qq_58062502/article/details/169268491)
 - Oct 26 - [Deep Research 深度研究模型](https://blog.csdn.net/qq_58062502/article/details/169170289)
-- Oct 25 - [什么是联邦学习？](https://blog.csdn.net/qq_58062502/article/details/169062879)
 <!-- feed end -->
 
 </td></tr>
