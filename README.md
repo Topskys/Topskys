@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 03 - [大模型原理之自适应推理](https://blog.csdn.net/qq_58062502/article/details/169952365)
 - Nov 02 - [Token 分词](https://blog.csdn.net/qq_58062502/article/details/169850540)
 - Nov 01 - [大规模智能体仿真](https://blog.csdn.net/qq_58062502/article/details/169748383)
 - Oct 31 - [大模型原理之模型谄媚](https://blog.csdn.net/qq_58062502/article/details/169653904)
 - Oct 30 - [大模型原理之权重量化](https://blog.csdn.net/qq_58062502/article/details/169564950)
-- Oct 29 - [大模型可解释性](https://blog.csdn.net/qq_58062502/article/details/169367505)
 <!-- feed end -->
 
 </td></tr>
