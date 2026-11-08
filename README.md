@@ -52,11 +52,11 @@
 <img align="right" width="88" src="assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 07 - [Scaling Law](https://blog.csdn.net/qq_58062502/article/details/170242099)
 - Nov 04 - [大模型原理之词嵌入](https://blog.csdn.net/qq_58062502/article/details/170054059)
 - Nov 03 - [大模型原理之自适应推理](https://blog.csdn.net/qq_58062502/article/details/169952365)
 - Nov 02 - [Token 分词](https://blog.csdn.net/qq_58062502/article/details/169850540)
 - Nov 01 - [大规模智能体仿真](https://blog.csdn.net/qq_58062502/article/details/169748383)
-- Oct 31 - [大模型原理之模型谄媚](https://blog.csdn.net/qq_58062502/article/details/169653904)
 <!-- feed end -->
 
 </td></tr>
